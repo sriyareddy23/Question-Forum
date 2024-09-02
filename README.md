@@ -1,7 +1,7 @@
-# IITG Stack Overflow
+# Question Hub
 People can post general,tech related or any sort of queries on the home feed provided with a search bar to search across all the previous questions based on keywords and other users will be able to answer those queries.
 ## Link
-[IITGStackOverCloned](https://stack-over-cloned.netlify.app/)
+[QuestionHub](https://stack-over-cloned.netlify.app/)
 <br/>
 <br/>
 ## Home Page
